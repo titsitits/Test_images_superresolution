@@ -1,1 +1,2 @@
-# Test_images_superresolution
+# Super-resolution comparison
+
